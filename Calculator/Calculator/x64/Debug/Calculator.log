@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Calculator.cpp
+f:\calculator\calculator\calculator.cpp(32): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  f:\calculator\calculator\calculator.cpp(32): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  f:\calculator\calculator\calculator.cpp(32): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+  f:\calculator\calculator\calculator.cpp(32): note: этот аргумент используется в качестве размера буфера
+  Calculator.vcxproj -> F:\Calculator\x64\Debug\Calculator.exe
+  Calculator.vcxproj -> F:\Calculator\x64\Debug\Calculator.pdb (Partial PDB)
